@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Rubik' , sans-serif;
+}
+body,html{
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+
+.title-text{
+    font-size: 64px;
+    font-weight: 900;
+}
+
+
+.section-text{
+    font-size: 32px;
+}
+.service-p{
+    font-size: 20px;
+}
+
+
+
+.bg-icon{
+    
+    height: 100px;
+    width: 100px;
+    font-size:64px;
+    border-radius:100px;
+}
+.icon-color{
+    color:rgb(247, 4, 97);
+}
+.blog-title{
+    font-size: 18px;
+    font-weight: 100;
+}
